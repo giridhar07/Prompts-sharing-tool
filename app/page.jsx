@@ -15,7 +15,7 @@ const Home = () => {
         tool for modern world to discover, create
         and share creative prompts
       </p>
-
+      <h1>Hello from the real deployed code!</h1>
       <Feed />
       
     </section>
